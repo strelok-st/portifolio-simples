@@ -1,0 +1,66 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.17 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.17">
+  <diagram name="Página-1" id="-cCOwHEflcjA_8jcq0RM">
+    <mxGraphModel dx="3460" dy="1393" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SK-XZNYv5C88E29cEBAI-1" value="sketch das ações que o programa precisa executar" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;startSize=39;" parent="1" vertex="1">
+          <mxGeometry x="-323" y="-4" width="844" height="553" as="geometry" />
+        </mxCell>
+        <mxCell id="SK-XZNYv5C88E29cEBAI-2" value="Objetivo: entregar ao usuário um número aleatório e guiá-lo até ele acertar baseado em quente/frio." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="SK-XZNYv5C88E29cEBAI-1" vertex="1">
+          <mxGeometry x="44" y="50" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SK-XZNYv5C88E29cEBAI-3" value="Tarefa: gerar números aleatórios;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="SK-XZNYv5C88E29cEBAI-1" vertex="1">
+          <mxGeometry x="334.0000244140625" y="265.9999755859375" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SK-XZNYv5C88E29cEBAI-4" value="Tarefa: dizer para o usuário se ele está perto do número ou não usando a temperatura;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="SK-XZNYv5C88E29cEBAI-1" vertex="1">
+          <mxGeometry x="108.00002441406252" y="283.9999755859375" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SK-XZNYv5C88E29cEBAI-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="SK-XZNYv5C88E29cEBAI-1" source="SK-XZNYv5C88E29cEBAI-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="222.60003662109375" y="148.79998779296875" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SK-XZNYv5C88E29cEBAI-5" value="Tarefa: cumprimentar ao usuário na primeira vez que o programa for rodado;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="SK-XZNYv5C88E29cEBAI-1" vertex="1">
+          <mxGeometry x="570.0000244140625" y="276.9999755859375" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SK-XZNYv5C88E29cEBAI-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=140;exitDy=90;exitPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="SK-XZNYv5C88E29cEBAI-1" source="SK-XZNYv5C88E29cEBAI-6" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="199" y="109" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SK-XZNYv5C88E29cEBAI-6" value="Tarefa: ter um menu que tenha as seguintes opções: iniciar o jogo, sair e o texto de cumprimento do usuário;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="SK-XZNYv5C88E29cEBAI-1" vertex="1">
+          <mxGeometry x="506.0000244140625" y="64.9999755859375" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SK-XZNYv5C88E29cEBAI-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="SK-XZNYv5C88E29cEBAI-1" source="SK-XZNYv5C88E29cEBAI-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="151" y="226" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SK-XZNYv5C88E29cEBAI-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;startSize=14;endArrow=open;endSize=14;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;" parent="SK-XZNYv5C88E29cEBAI-1" source="SK-XZNYv5C88E29cEBAI-3" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="202" y="178" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SK-XZNYv5C88E29cEBAI-17" value="sketch de como o programa precisa se comportar" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="-1227" y="516" width="572" height="555" as="geometry" />
+        </mxCell>
+        <mxCell id="SK-XZNYv5C88E29cEBAI-19" value="O programa precisa ser muito rápido. Quase imediato." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="SK-XZNYv5C88E29cEBAI-17" vertex="1">
+          <mxGeometry x="179.00006975446422" y="135.99571428571448" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SK-XZNYv5C88E29cEBAI-20" value="sketch do que o programa precisa para ter essas funções" style="swimlane;whiteSpace=wrap;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="1" vertex="1">
+          <mxGeometry x="-1242" y="-134" width="800" height="544" as="geometry" />
+        </mxCell>
+        <mxCell id="SK-XZNYv5C88E29cEBAI-21" value="o paradigma dele será funcional" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="SK-XZNYv5C88E29cEBAI-20" vertex="1">
+          <mxGeometry x="58" y="285" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SK-XZNYv5C88E29cEBAI-22" value="O programa precisa ter importado a biblioteca ram." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="SK-XZNYv5C88E29cEBAI-20" vertex="1">
+          <mxGeometry x="270.99991861979197" y="118" width="140" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="SK-XZNYv5C88E29cEBAI-23" value="O python precisa ser da versão 3.x" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" parent="SK-XZNYv5C88E29cEBAI-20" vertex="1">
+          <mxGeometry x="555.9965852864584" y="255" width="140" height="160" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
