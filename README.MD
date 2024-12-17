@@ -14,3 +14,4 @@ Os projetos serão divididos em: 3 de dificuldade fácil, 3 de dificuldade inter
 - Editor de código: Sublime Text (ou qualquer um que te sirva);
 - Interpretador: padrão do Python.
 - Sistema Operacional: infelizmente Windows;
+- Interface Gráfica: Tkinter;
