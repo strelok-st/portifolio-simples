@@ -21,3 +21,8 @@ Um joguinho simples onde o usuário digita números para tentar acertar o valor 
 - Bibliotecas: random, tkinter;
 
 ## LOG
+**17/12/2024**
+Tarefas adicionais que não previ e que são muito importantes:
+- revisar python;
+- aprender orientação a objetos com python;
+- aprender tkinter;
