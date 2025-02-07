@@ -8,5 +8,6 @@ Você foi contratado para criar a interface de uma landing page para um evento m
 - Utilize pelo menos duas famílias de fontes distintas para títulos e parágrafos.
 
 ## Tarefas:
+- [ ] Criar o layout.
 - [ ] Criar o HTML.
 - [ ] Estilizar com o CSS.
